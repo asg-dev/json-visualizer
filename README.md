@@ -6,8 +6,6 @@ This project is a web application that allows users to visualize JSON data in a
 JSON Viewer. The application is built primarily using React.js, bootstrapped by
 create-react-app.
 
-A quick one-minute demo of the app is also available on the root directory of the project.
-
 ## Running the app
 
 To run the app, you will need to have Node.js installed. You can download it
