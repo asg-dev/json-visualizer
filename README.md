@@ -19,6 +19,8 @@ npm install
 npm start
 ```
 
+A live demo of this app can be seen here: https://asg-dev.github.io/json-visualizer/
+
 ## Using the app
 
 Once the app is running, you can open it in your browser at
